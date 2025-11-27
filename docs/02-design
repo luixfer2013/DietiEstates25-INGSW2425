@@ -1,6 +1,7 @@
 ## 2. Design del Sistema
 ### 2.1 Architettura proposta
 ### 2.2 Scelte tecnologiche
+   Useremo Java + Spring Boot per il backend (REST API) e React per il frontend.
 ### 2.3 Schema di persistenza dati
 ### 2.4 Design interfaccia utente
 ### 2.5 Diagramma delle classi
